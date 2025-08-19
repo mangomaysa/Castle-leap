@@ -1,13 +1,17 @@
-# Castle Leap
+# Castle Leap 🏰✨
 
-## Introduction
-Castle Leap is a Python game made with Pygame. The goal is to jump through different levels while avoiding obstacles.
+Castle Leap is a platform-jumping game inspired by Icy Tower, built with Python and Pygame.
 
-## Setup
+## How to Play
+- Use the **arrow keys**
+- to move left/right
+- Press **space** to jump
+- Try to climb as high as you can without falling!
 
-1. **Install Python**: If you don't have Python installed, download it from [here](https://www.python.org/downloads/).
-
-2. **Install Pygame**: You need Pygame to run this game. You can install it via pip:
+## How to Run
+1. Make sure you have **Python 3.10+** installed.
+2. Install Pygame:
    ```bash
    pip install pygame
+
 
